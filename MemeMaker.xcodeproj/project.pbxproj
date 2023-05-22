@@ -13,6 +13,7 @@
 		1E3F8B6B2A0688600083903F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E3F8B692A0688600083903F /* Main.storyboard */; };
 		1E3F8B6D2A0688620083903F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E3F8B6C2A0688620083903F /* Assets.xcassets */; };
 		1E3F8B702A0688620083903F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E3F8B6E2A0688620083903F /* LaunchScreen.storyboard */; };
+		1E3F8B782A069B170083903F /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3F8B772A069B170083903F /* CaptionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1E3F8B6C2A0688620083903F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E3F8B6F2A0688620083903F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E3F8B712A0688620083903F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E3F8B772A069B170083903F /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1E3F8B6C2A0688620083903F /* Assets.xcassets */,
 				1E3F8B6E2A0688620083903F /* LaunchScreen.storyboard */,
 				1E3F8B712A0688620083903F /* Info.plist */,
+				1E3F8B772A069B170083903F /* CaptionOption.swift */,
 			);
 			path = MemeMaker;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E3F8B682A0688600083903F /* ViewController.swift in Sources */,
+				1E3F8B782A069B170083903F /* CaptionOption.swift in Sources */,
 				1E3F8B642A0688600083903F /* AppDelegate.swift in Sources */,
 				1E3F8B662A0688600083903F /* SceneDelegate.swift in Sources */,
 			);
